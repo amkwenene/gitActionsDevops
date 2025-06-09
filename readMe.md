@@ -1,3 +1,5 @@
+create maven yaml
+create Dockerfile
 create docker hub account
 download docker desktop
 docker pull amkwenene/github-actions-devops
