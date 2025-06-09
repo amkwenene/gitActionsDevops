@@ -47,7 +47,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>course-service</finalName>
+		<finalName>github-actions-devops</finalName>
 	</build>
 
 </project>
